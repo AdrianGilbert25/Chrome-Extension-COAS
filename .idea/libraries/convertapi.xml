@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="convertapi" type="javaScript">
+    <CLASSES />
+    <DOCUMENTATION>
+      <root url="https://unpkg.com/convertapi-js/lib/convertapi.js" />
+    </DOCUMENTATION>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
