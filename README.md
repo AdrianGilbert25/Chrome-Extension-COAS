@@ -1,6 +1,6 @@
 # COAS - Chrome Extension for Online File Conversion and Text Extraction
 
-![COAS Logo](https://user-images.githubusercontent.com/128959442/258881919-26b37d8a-4e6c-4d77-8fc7-0ca3eab73ad3.png)
+<br><img src = "https://github.com/COAS4/Google_Chrome_Development-Coas_Web_Extension/assets/128959442/30c538c4-05eb-4472-b963-8537f7a0aba8" width = 250 height = 150><br>
 
 COAS is a convenient Chrome extension that allows users to seamlessly extract text from various elements on a webpage and convert files to their preferred formats. Whether you come across infographics, images, newsletters or web page sections that you want to save as notes, forward to a friend or convert into a different format, COAS has got you covered.
 
